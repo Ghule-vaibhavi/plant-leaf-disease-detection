@@ -1,0 +1,263 @@
+{
+    "Pepper__bell___Bacterial_spot": {
+        "name": "Bell Pepper Bacterial Spot",
+        "description": "A bacterial disease (Xanthomonas) that spreads in warm, wet weather and damages leaves and fruit.",
+        "symptoms": [
+            "Small, dark, water-soaked spots on leaves",
+            "Spots turning brown with yellow edges",
+            "Leaves dropping early",
+            "Rough, raised spots on fruit"
+        ],
+        "treatment": [
+            "Remove and destroy infected plant parts",
+            "Use copper-based sprays as advised by a local agriculture expert"
+        ],
+        "prevention": [
+            "Use disease-free seeds and seedlings",
+            "Avoid overhead watering",
+            "Rotate crops every season"
+        ]
+    },
+    "Pepper__bell___healthy": {
+        "name": "Healthy Bell Pepper Leaf",
+        "description": "The leaf shows no visible signs of disease.",
+        "symptoms": [
+            "None detected"
+        ],
+        "treatment": [
+            "No treatment needed"
+        ],
+        "prevention": [
+            "Water at the base of the plant",
+            "Inspect plants regularly",
+            "Keep the area free of plant debris"
+        ]
+    },
+    "Potato___Early_blight": {
+        "name": "Potato Early Blight",
+        "description": "A fungal disease (Alternaria solani) that mainly affects older leaves.",
+        "symptoms": [
+            "Brown spots with ring-like patterns",
+            "Yellowing around the spots",
+            "Older leaves dying first"
+        ],
+        "treatment": [
+            "Remove affected leaves",
+            "Apply a suitable fungicide as advised locally"
+        ],
+        "prevention": [
+            "Rotate crops",
+            "Avoid overhead watering",
+            "Keep plants well fed and healthy"
+        ]
+    },
+    "Potato___Late_blight": {
+        "name": "Potato Late Blight",
+        "description": "A fast-spreading disease (Phytophthora infestans) favoured by cool, humid weather.",
+        "symptoms": [
+            "Dark, water-soaked patches on leaves",
+            "White fuzzy growth under leaves in humid weather",
+            "Rapid browning of leaves and stems"
+        ],
+        "treatment": [
+            "Remove and destroy infected plants quickly",
+            "Use recommended fungicides as advised locally"
+        ],
+        "prevention": [
+            "Use certified disease-free seed potatoes",
+            "Improve airflow between plants",
+            "Avoid overhead watering"
+        ]
+    },
+    "Potato___healthy": {
+        "name": "Healthy Potato Leaf",
+        "description": "The leaf shows no visible signs of disease.",
+        "symptoms": [
+            "None detected"
+        ],
+        "treatment": [
+            "No treatment needed"
+        ],
+        "prevention": [
+            "Use certified seed potatoes",
+            "Rotate crops",
+            "Inspect plants regularly"
+        ]
+    },
+    "Tomato_Bacterial_spot": {
+        "name": "Tomato Bacterial Spot",
+        "description": "A bacterial disease that thrives in warm, wet conditions and affects leaves and fruit.",
+        "symptoms": [
+            "Small, dark, greasy-looking spots on leaves",
+            "Spots with yellow halos",
+            "Scabby spots on fruit"
+        ],
+        "treatment": [
+            "Remove infected leaves",
+            "Use copper-based sprays as advised locally"
+        ],
+        "prevention": [
+            "Use disease-free seeds",
+            "Avoid working with wet plants",
+            "Rotate crops"
+        ]
+    },
+    "Tomato_Early_blight": {
+        "name": "Tomato Early Blight",
+        "description": "A fungal disease (Alternaria solani) that starts on the lower, older leaves.",
+        "symptoms": [
+            "Brown spots with ring-like patterns",
+            "Yellowing leaves",
+            "Dark sunken spots on stems or fruit"
+        ],
+        "treatment": [
+            "Remove affected lower leaves",
+            "Apply a suitable fungicide as advised locally"
+        ],
+        "prevention": [
+            "Mulch around plants",
+            "Rotate crops",
+            "Water at the base of the plant"
+        ]
+    },
+    "Tomato_Late_blight": {
+        "name": "Tomato Late Blight",
+        "description": "A fast-spreading disease (Phytophthora infestans) that thrives in cool, wet weather.",
+        "symptoms": [
+            "Dark, water-soaked patches on leaves",
+            "White fuzzy growth under leaves in humid conditions",
+            "Firm brown lesions on fruit"
+        ],
+        "treatment": [
+            "Remove and destroy infected plants",
+            "Apply a recommended fungicide as advised locally"
+        ],
+        "prevention": [
+            "Avoid overhead watering",
+            "Space plants for good airflow",
+            "Use resistant varieties"
+        ]
+    },
+    "Tomato_Leaf_Mold": {
+        "name": "Tomato Leaf Mold",
+        "description": "A fungal disease (Passalora fulva) common in humid, poorly ventilated conditions.",
+        "symptoms": [
+            "Pale yellow patches on the upper leaf surface",
+            "Olive-green to brown mold under the leaf",
+            "Leaves curling and dropping"
+        ],
+        "treatment": [
+            "Remove infected leaves",
+            "Reduce humidity and apply a suitable fungicide as advised locally"
+        ],
+        "prevention": [
+            "Improve ventilation",
+            "Avoid wetting leaves",
+            "Space plants properly"
+        ]
+    },
+    "Tomato_Septoria_leaf_spot": {
+        "name": "Tomato Septoria Leaf Spot",
+        "description": "A fungal disease (Septoria lycopersici) that spreads by water splash.",
+        "symptoms": [
+            "Many small round spots with dark borders and grey centres",
+            "Yellowing and dropping of lower leaves"
+        ],
+        "treatment": [
+            "Remove affected leaves",
+            "Apply a suitable fungicide as advised locally"
+        ],
+        "prevention": [
+            "Avoid overhead watering",
+            "Mulch the soil",
+            "Rotate crops and clear plant debris"
+        ]
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+        "name": "Tomato Spider Mites",
+        "description": "Tiny pests that suck sap from leaves, most active in hot, dry weather.",
+        "symptoms": [
+            "Tiny yellow or white speckles on leaves",
+            "Fine webbing under leaves",
+            "Leaves turning bronze and drying out"
+        ],
+        "treatment": [
+            "Spray leaves with water to knock mites off",
+            "Use insecticidal soap or miticide as advised locally"
+        ],
+        "prevention": [
+            "Keep plants well watered",
+            "Check the underside of leaves regularly",
+            "Avoid dusty conditions"
+        ]
+    },
+    "Tomato__Target_Spot": {
+        "name": "Tomato Target Spot",
+        "description": "A fungal disease (Corynespora cassiicola) favoured by warm, humid weather.",
+        "symptoms": [
+            "Brown spots with ring-like patterns",
+            "Spots joining together on leaves",
+            "Leaves yellowing and dropping"
+        ],
+        "treatment": [
+            "Remove affected leaves",
+            "Apply a suitable fungicide as advised locally"
+        ],
+        "prevention": [
+            "Improve airflow",
+            "Avoid overhead watering",
+            "Clear plant debris after harvest"
+        ]
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+        "name": "Tomato Yellow Leaf Curl Virus",
+        "description": "A virus spread by whiteflies that stunts plants and reduces yield.",
+        "symptoms": [
+            "Leaves curling upward and turning yellow",
+            "Stunted plant growth",
+            "Few or no fruits"
+        ],
+        "treatment": [
+            "Remove and destroy infected plants",
+            "Control whiteflies as advised locally"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Control whiteflies",
+            "Use insect nets or reflective mulch"
+        ]
+    },
+    "Tomato__Tomato_mosaic_virus": {
+        "name": "Tomato Mosaic Virus",
+        "description": "A virus that spreads through contact, tools, and contaminated seed.",
+        "symptoms": [
+            "Light and dark green mottled leaves",
+            "Distorted or curled leaves",
+            "Slow growth and uneven fruit ripening"
+        ],
+        "treatment": [
+            "Remove and destroy infected plants (no cure)",
+            "Disinfect tools and wash hands"
+        ],
+        "prevention": [
+            "Use virus-free seeds",
+            "Disinfect tools",
+            "Avoid handling plants after using tobacco"
+        ]
+    },
+    "Tomato_healthy": {
+        "name": "Healthy Tomato Leaf",
+        "description": "The leaf shows no visible signs of disease.",
+        "symptoms": [
+            "None detected"
+        ],
+        "treatment": [
+            "No treatment needed"
+        ],
+        "prevention": [
+            "Water at the base of the plant",
+            "Inspect plants regularly",
+            "Keep the area free of fallen debris"
+        ]
+    }
+}

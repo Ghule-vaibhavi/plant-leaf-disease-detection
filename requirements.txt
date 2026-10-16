@@ -1,0 +1,5 @@
+streamlit
+tensorflow==YOUR_VERSION
+pillow
+opencv-python-headless
+numpy
